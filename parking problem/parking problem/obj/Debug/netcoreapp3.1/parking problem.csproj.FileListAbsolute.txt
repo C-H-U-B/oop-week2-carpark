@@ -1,0 +1,11 @@
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\bin\Debug\netcoreapp3.1\parking problem.exe
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\bin\Debug\netcoreapp3.1\parking problem.deps.json
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\bin\Debug\netcoreapp3.1\parking problem.runtimeconfig.json
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\bin\Debug\netcoreapp3.1\parking problem.runtimeconfig.dev.json
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\bin\Debug\netcoreapp3.1\parking problem.dll
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\bin\Debug\netcoreapp3.1\parking problem.pdb
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\obj\Debug\netcoreapp3.1\parking problem.csprojAssemblyReference.cache
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\obj\Debug\netcoreapp3.1\parking problem.AssemblyInfoInputs.cache
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\obj\Debug\netcoreapp3.1\parking problem.AssemblyInfo.cs
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\obj\Debug\netcoreapp3.1\parking problem.dll
+C:\Users\rmour\prog project\irlande c#\oop\parking problem\parking problem\parking problem\obj\Debug\netcoreapp3.1\parking problem.pdb
